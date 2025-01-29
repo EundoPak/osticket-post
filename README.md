@@ -84,7 +84,7 @@ Next lets add 3 SLAs (Service Level Agreement), Go back to Admin Panel -> click 
 
 ![Lab2-11 3](https://github.com/user-attachments/assets/0ed484ab-5c59-47c6-a419-e41c0c53fa46)
 
-
+Finally we will create some Help Topics for our clients to select when creating a ticket. Click Help Topics -> click Add New Help Topic. 
 
 ![Lab2-12 1](https://github.com/user-attachments/assets/bdf46734-51e0-406f-961e-4d19ba3e6f9b)
 
