@@ -96,6 +96,7 @@ Finally we will create some Help Topics for our clients to select when creating 
 
 ![Lab2-12 5](https://github.com/user-attachments/assets/d9b32244-9ad2-4e60-a0c1-5cdfec2a0529)
 
+This will conclude the tutorial on the Post-Installation of osTicket! Now that we have the guidelines and intuition on how to navigate osTicket we wil finally get to the ticket-lifecycle from start to finish.
 
 
 
